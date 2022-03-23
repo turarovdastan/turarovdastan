@@ -16,3 +16,4 @@
 - bootstrap
 - ts
 - знаком с node,express,mongo,mysql
+telegram : t.me/devffd
