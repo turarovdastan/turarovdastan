@@ -14,5 +14,5 @@
 - реакт(редакс)
 - vuetify
 - bootstrap
--ts
+- ts
 - знаком с node,express,mongo,mysql
