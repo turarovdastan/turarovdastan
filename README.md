@@ -1,9 +1,4 @@
-Ключевой фреймворк : vue/nuxt
-Образавание: самоучка
-Skils:
--опыт адаптивной верстки и кросбраузерной;
--работа с ассинхроностью-(async/await,promise)
--иностранные языки:english(intermedite)
+# TURAROV FRONTEND DEVELOPER
 - Javascript(ES6+);
 - Vue; 
 - vue Router; 
