@@ -15,5 +15,5 @@
 - vuetify
 - bootstrap
 - ts
-- знаком с node,express,mongo,mysql
-telegram : t.me/devffd
+- знаком с node,express,mongo,mysql <br>
+| telegram : t.me/devffd
